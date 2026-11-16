@@ -1,15 +1,11 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+creator,Creator,true
 date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
-latitude,Latitude
+latitude,Latitude,
+date,date,
 longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
